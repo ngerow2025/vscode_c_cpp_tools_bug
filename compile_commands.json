@@ -1,0 +1,8 @@
+[
+    {
+        "command": "C:/Users/ngero/AppData/Local/Android/Sdk/ndk/23.0.7599858/build//../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/Users/ngero/AppData/Local/Android/Sdk/ndk/23.0.7599858/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O0 -UNDEBUG -fno-limit-debug-info -IC:/Users/ngero/AppData/Local/Android/Sdk/ndk/23.0.7599858/build//../sources/cxx-stl/llvm-libc++/include -IC:/Users/ngero/AppData/Local/Android/Sdk/ndk/23.0.7599858/build//../sources/cxx-stl/llvm-libc++abi/include  -DANDROID -nostdinc++ -Wformat -Werror=format-security -std=c++17 -c D:/bug_test/main.cpp -o D:/bug_test/main.o",
+        "directory": "D:\\bug_test",
+        "file": "D:/bug_test/main.cpp",
+        "output": "D:/bug_test/main.o"
+    }
+]

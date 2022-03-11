@@ -1,0 +1,14 @@
+#undef _WIN32
+#undef WIN32
+#undef _WIN64
+#undef WIN64
+#undef __MINGW32__
+#undef __MINGW64__
+#undef __MSVCRT__
+#undef __WIN32
+#undef __WIN32__
+#undef __WIN64
+#undef __WIN64__
+#undef __WINNT
+#undef __WINNT__
+#define __ANDROID__

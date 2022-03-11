@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        },
+        {
+            "name": "Android",
+            "compileCommands": "${workspaceFolder}/compile_commands.json",
+            "compilerPath": "C:/Users/ngero/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+            "intelliSenseMode": "linux-clang-arm64",
+            "forcedInclude": [
+                "${workspaceFolder}/.vscode/android_force_include.h"
+            ]
+        }
+    ],
+    "version": 4
+}
+
